@@ -1,4 +1,4 @@
-[中文](https://github.com/Hikal007/SSL-SeaSoleLandsDatapack/) | **ENGLISH** 
+[中文](https://github.com/Hikal007/SSL-SeaSoleLandsDatapack) | **ENGLISH** 
 
 # SSC-3CServerDatapack
 # ENGLISH
