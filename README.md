@@ -1,4 +1,4 @@
-[English](https://github.com/Hikal007/SSC-3CServerDatapack) | **中文**
+**中文** | [English](https://github.com/Hikal007/SSC-3CServerDatapack)
 
 # SSC-3CServerDatapack
 # 中文
