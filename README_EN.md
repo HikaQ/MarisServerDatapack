@@ -1,4 +1,4 @@
-**ENGLISH** | [中文](https://github.com/Hikal007/SSC-3CServerDatapack/blob/main/README_CN.md)
+[中文](https://github.com/Hikal007/SSC-3CServerDatapack/blob/main/README_CN.md) | **ENGLISH** 
 
 # SSC-3CServerDatapack
 # ENGLISH
