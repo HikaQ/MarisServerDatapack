@@ -1,4 +1,4 @@
-[中文](https://github.com/Hikal007/SSL-SeaSoleLandsDatapack) | **ENGLISH** 
+[中文](https://github.com/Hikal007/SSL-SeaSoleLandsDatapack/tree/1.21.1) | **ENGLISH** 
 
 # SSL-SeaSoleLandsServer Datapack
 # ENGLISH
