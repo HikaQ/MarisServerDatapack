@@ -1,4 +1,4 @@
-**中文** | [English](https://github.com/Hikal007/SSL-SeaSoleLandsDatapack/blob/1.21.1/README_EN.md)
+**中文** | [English](https://github.com/HikaQ/SSL-SeaSoleLandsDatapack/blob/1.21.1/README_EN.md)
 
 # SSL-SeaSoleLandsDatapack
 # 中文
