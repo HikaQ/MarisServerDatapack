@@ -1,17 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "pattern": [
     "010",
     " 0 "
   ],
   "key": {
-    "0": {
-      "item": "minecraft:glass"
+    "0": "minecraft:glass_bottle",
+    "1": "minecraft:dragon_egg"
     },
-    "1": {
-      "item": "minecraft:dragon_egg"
-    }
-  },
   "result": {
     "id": "minecraft:dragon_breath",
     "count": 3

@@ -1,2 +1,2 @@
 # TICKS
-function sslweather:coretick
+function mrsweather:coretick

@@ -1,3 +1,3 @@
 # LOADS
 function info
-function sslweather:core
+function mrsweather:core

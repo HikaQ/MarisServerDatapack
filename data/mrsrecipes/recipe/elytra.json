@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "010",
+    "020",
+    "030"
+  ],
+  "key": {
+    "0": "minecraft:phantom_membrane",
+    "1": "minecraft:string",
+    "2": "minecraft:feather",
+    "3": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}
